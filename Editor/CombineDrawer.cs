@@ -2,6 +2,7 @@ using System;
 using UnityEditor;
 using UnityEngine;
 
+//  LayerFx © NullTale - https://twitter.com/NullTale/
 namespace LayerFx.Editor
 {
     [CustomPropertyDrawer(typeof(Combine.Output))]

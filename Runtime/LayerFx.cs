@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
 
+//  LayerFx © NullTale - https://twitter.com/NullTale/
 namespace LayerFx
 {
     public class LayerFx : ScriptableRendererFeature

@@ -6,6 +6,7 @@ using UnityEditor;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
+//  LayerFx © NullTale - https://twitter.com/NullTale/
 namespace LayerFx.Editor
 {
     internal static class UtilsEditor

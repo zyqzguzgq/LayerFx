@@ -9,6 +9,7 @@ using UnityEditorInternal;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
+//  LayerFx © NullTale - https://twitter.com/NullTale/
 namespace LayerFx.Editor
 {
     [CustomPropertyDrawer(typeof(SoCollection<>), true)]

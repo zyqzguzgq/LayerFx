@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using Random = UnityEngine.Random;
 
+//  LayerFx © NullTale - https://twitter.com/NullTale/
 namespace LayerFx
 {
     public static class Utils

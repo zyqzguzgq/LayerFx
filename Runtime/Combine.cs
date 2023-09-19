@@ -4,6 +4,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Rendering.Universal;
 
+//  LayerFx © NullTale - https://twitter.com/NullTale/
 namespace LayerFx
 {
     [Serializable]

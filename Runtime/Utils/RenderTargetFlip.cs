@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.Rendering;
 
+//  LayerFx © NullTale - https://twitter.com/NullTale/
 namespace LayerFx
 {
     public class RenderTargetFlip

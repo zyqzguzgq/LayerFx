@@ -1,5 +1,6 @@
 using UnityEngine;
 
+//  LayerFx © NullTale - https://twitter.com/NullTale/
 namespace LayerFx
 {
     [ExecuteAlways]
