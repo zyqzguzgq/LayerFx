@@ -1,0 +1,25 @@
+{
+  "name": "www.nulltale.layerfx",
+  "displayName": "LayerFx",
+  "version": "1.0.0",
+  "unity": "2021.1",
+  "description": "Universal Layer System ",
+  "documentationUrl": "https://github.com/NullTale/LayerFx",
+  "licensesUrl": "https://github.com/NullTale/LayerFx/blob/master/LICENSE.md",
+  "author": {
+    "name": "NullTale",
+    "email": "nulltale@gmail.com",
+    "url": "https://github.com/NullTale"
+  },
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "12.1.11"
+  },
+  "hideInEditor": false,
+  "samples": [
+      {
+          "displayName": "Samples",
+          "description": "Contains sample scene from the documentation",
+          "path": "Samples~/"
+      }
+    ]
+}
