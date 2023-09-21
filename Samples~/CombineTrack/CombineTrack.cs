@@ -1,6 +1,3 @@
-using System.Linq;
-using UnityEngine;
-using UnityEngine.Playables;
 using UnityEngine.Timeline;
 
 namespace LayerFx
